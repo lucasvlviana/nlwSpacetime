@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.addMissingImports": true
+      },
+      "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "graphql"
+      ],
+      "[prisma]": {
+        "editor.formatOnSave": true
+      },
+}
